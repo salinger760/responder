@@ -1,4 +1,5 @@
 Pipfile
 Pipfile.lock
-
+.gitconfig
+.gitignore
 **/__pycache__
